@@ -13,8 +13,8 @@ var myNull = null;
 console.log("Null:", myNull);
 // 5. any
 var myAny = "This can be anything";
-console.log("Any (initially string):", myAny);
+console.log("Any string:", myAny);
 myAny = 10;
-console.log("Any (changed to number):", myAny);
+console.log("changed to number:", myAny);
 myAny = false;
-console.log("Any (changed to boolean):", myAny);
+console.log("changed to boolean:", myAny);
